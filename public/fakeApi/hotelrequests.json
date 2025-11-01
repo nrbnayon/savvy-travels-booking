@@ -1,0 +1,62 @@
+{
+  "status": "Success",
+  "message": "Successfully fetched hotel request data",
+  "data": [
+    {
+      "id": 4,
+      "request_id": "REQ-20251002-004",
+      "event_name": "John's Birthday Party",
+      "destination": "New York, USA",
+      "number_of_rooms": 2,
+      "event_type": "Birthday Party",
+      "hotel_bids": 3,
+      "stay": {
+        "check_in": "2025-10-08",
+        "check_out": "2025-10-10",
+        "nights": 2
+      }
+    },
+    {
+      "id": 3,
+      "request_id": "REQ-20251002-003",
+      "event_name": "John's Birthday Party",
+      "destination": "New York, USA",
+      "number_of_rooms": 2,
+      "event_type": "Birthday Party",
+      "hotel_bids": 9,
+      "stay": {
+        "check_in": "2025-10-08",
+        "check_out": "2025-10-10",
+        "nights": 2
+      }
+    },
+    {
+      "id": 2,
+      "request_id": "REQ-20251002-002",
+      "event_name": "Test Event2",
+      "destination": "New York",
+      "number_of_rooms": 1,
+      "hotel_bids": 3,
+      "event_type": "Birthday Party",
+      "stay": {
+        "check_in": "2025-10-02",
+        "check_out": "2025-10-02",
+        "nights": 0
+      }
+    },
+    {
+      "id": 1,
+      "request_id": "REQ-20251002-001",
+      "event_name": "Test Event",
+      "destination": "New York",
+      "number_of_rooms": 3,
+      "event_type": "Bachelorette Party",
+      "hotel_bids": 8,
+      "stay": {
+        "check_in": "2025-10-02",
+        "check_out": "2025-10-10",
+        "nights": 8
+      }
+    }
+  ]
+}

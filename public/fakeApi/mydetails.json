@@ -1,0 +1,102 @@
+{
+  "status": "Success",
+  "message": "Hotel request details fetched successfully",
+  "data": [
+    {
+      "id": 1,
+      "request_id": "REQ-20251002-002",
+      "posted": "2025-10-02T10:35:37.357392Z",
+      "event_name": "John's Birthday Party",
+      "event_type": "Birthday Party",
+      "destination": "New York, USA",
+      "central_address": "123 Main Street",
+      "distance_from_central": "3-5 mi",
+      "stay": {
+        "check_in": "2025-10-08",
+        "check_out": "2025-10-10",
+        "nights": 2
+      },
+      "number_of_rooms": 2,
+      "number_of_guests": 5,
+      "room_type": "1 King Bed Only",
+      "budget_range": {
+        "budget_min": "200.00",
+        "budget_max": "500.00"
+      },
+      "meeting_space_required": "Yes",
+      "additional_request": "Please provide a projector and sound system."
+    },
+    {
+      "id": 2,
+      "request_id": "REQ-20251002-002",
+      "posted": "2025-10-02T10:35:37.357392Z",
+      "event_name": "John's Birthday Party",
+      "event_type": "Birthday Party",
+      "destination": "New York, USA",
+      "central_address": "123 Main Street",
+      "distance_from_central": "3-5 mi",
+      "stay": {
+        "check_in": "2025-10-08",
+        "check_out": "2025-10-10",
+        "nights": 2
+      },
+      "number_of_rooms": 2,
+      "number_of_guests": 5,
+      "room_type": "1 King Bed Only",
+      "budget_range": {
+        "budget_min": "200.00",
+        "budget_max": "500.00"
+      },
+      "meeting_space_required": "Yes",
+      "additional_request": "Please provide a projector and sound system."
+    },
+    {
+      "id": 3,
+      "request_id": "REQ-20251002-003",
+      "posted": "2025-10-02T10:35:37.357392Z",
+      "event_name": "John's Birthday Party",
+      "event_type": "Birthday Party",
+      "destination": "New York, USA",
+      "central_address": "123 Main Street",
+      "distance_from_central": "3-5 mi",
+      "stay": {
+        "check_in": "2025-10-08",
+        "check_out": "2025-10-10",
+        "nights": 2
+      },
+      "number_of_rooms": 2,
+      "number_of_guests": 5,
+      "room_type": "1 King Bed Only",
+      "budget_range": {
+        "budget_min": "200.00",
+        "budget_max": "500.00"
+      },
+      "meeting_space_required": "Yes",
+      "additional_request": "Please provide a projector and sound system."
+    },
+    {
+      "id": 4,
+      "request_id": "REQ-20251002-004",
+      "posted": "2025-10-02T10:35:37.357392Z",
+      "event_name": "John's Birthday Party",
+      "event_type": "Birthday Party",
+      "destination": "New York, USA",
+      "central_address": "123 Main Street",
+      "distance_from_central": "3-5 mi",
+      "stay": {
+        "check_in": "2025-10-08",
+        "check_out": "2025-10-10",
+        "nights": 2
+      },
+      "number_of_rooms": 2,
+      "number_of_guests": 5,
+      "room_type": "1 King Bed Only",
+      "budget_range": {
+        "budget_min": "200.00",
+        "budget_max": "500.00"
+      },
+      "meeting_space_required": "Yes",
+      "additional_request": "Please provide a projector and sound system."
+    }
+  ]
+}
